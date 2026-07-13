@@ -1,22 +1,28 @@
 Dashboard Explanation
 
-The Power BI dashboard was developed to provide an interactive view of the Indian Electric Vehicle (EV) market. It allows users to analyze EV sales, manufacturer performance, state-wise trends, and market penetration through different dashboard pages.
+The Power BI dashboard was developed to provide an interactive view of the Indian Electric Vehicle (EV) market. It allows users to analyze EV sales, 
+manufacturer performance, state-wise trends and market penetration through different dashboard pages.
 
 Home Page
 
-The home page provides a brief introduction to the project and acts as the navigation page. Users can directly access the Executive Overview, Maker Analysis, and State Analysis dashboards.
+The home page provides a brief introduction to the project and acts as the navigation page. Users can directly access the Executive Overview, Maker Analysis
+and State Analysis dashboards.
 
 Executive Overview
 
-This page presents a high-level summary of the Indian EV market using key performance indicators such as Total EV Sales, Total Vehicles Sold, EV Penetration (%), and Total Makers. It also highlights sales trends over fiscal years, vehicle category performance, and state-wise EV sales to provide an overall market overview.
+This page presents a high-level summary of the Indian EV market using key performance indicators such as Total EV Sales, Total Vehicles Sold, 
+EV Penetration (%) and Total Makers. It also highlights sales trends over fiscal years, vehicle category performance, and state-wise EV sales to provide 
+an overall market overview.
 
 Maker Analysis
 
-This dashboard focuses on the performance of EV manufacturers in India. It compares market share, total EV sales, yearly sales trends, and manufacturer rankings across different fiscal years. The analysis helps identify leading manufacturers and understand the competitive landscape of the Indian EV market.
+This dashboard focuses on the performance of EV manufacturers in India. It compares market share, total EV sales, yearly sales trends and manufacturer 
+rankings across different fiscal years. The analysis helps identify leading manufacturers and understand the competitive landscape of the Indian EV market.
 
 State Analysis
 
-This page analyzes EV adoption across different states in India. It highlights state-wise EV sales, EV penetration, geographical distribution, and product preferences for different vehicle categories. The dashboard also summarizes the key findings to identify high-performing markets and future growth opportunities.
+This page analyzes EV adoption across different states in India. It highlights state-wise EV sales, EV penetration, geographical distribution and product preferences for different vehicle categories. The dashboard also summarizes the key findings to identify high-performing markets and future growth 
+opportunities.
 
 Dashboard Features
 
