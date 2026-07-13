@@ -14,11 +14,8 @@ End-to-End Data Analytics Project using Excel, MySQL, Python & Power BI
 </p>
 
 <p align="center">
-  <img src="07_Assets/AtliQ_Logo.png" width="220">
-</p>
-
-<p align="center">
-<b>Author:</b> Pranav Shrivastav
+  <strong>👨‍💻 Author</strong><br>
+  <b>Pranav Shrivastav</b>
 </p>
 
 ---
