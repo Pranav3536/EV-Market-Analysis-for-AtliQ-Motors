@@ -21,8 +21,9 @@ rankings across different fiscal years. The analysis helps identify leading manu
 
 State Analysis
 
-This page analyzes EV adoption across different states in India. It highlights state-wise EV sales, EV penetration, geographical distribution and product preferences for different vehicle categories. The dashboard also summarizes the key findings to identify high-performing markets and future growth 
-opportunities.
+This page analyzes EV adoption across different states in India. It highlights state-wise EV sales, EV penetration, geographical distribution 
+and product preferences for different vehicle categories. The dashboard also summarizes the key findings to identify high-performing markets 
+and future growth opportunities.
 
 Dashboard Features
 
