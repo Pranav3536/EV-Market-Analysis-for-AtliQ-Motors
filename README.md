@@ -13,9 +13,10 @@ End-to-End Data Analytics Project using Excel, MySQL, Python & Power BI
 
 </p>
 
+<h3 align="center">👨‍💻 Pranav Shrivastav</h3>
+
 <p align="center">
-  <strong>👨‍💻 Author</strong><br>
-  <b>Pranav Shrivastav</b>
+Data Analyst • SQL • Python • Power BI
 </p>
 
 ---
