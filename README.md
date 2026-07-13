@@ -218,8 +218,6 @@ Explore the interactive Power BI dashboard to view the complete analysis.
 
 ---
 
----
-
 # About This Repository
 
 This repository contains all project files, including raw and cleaned datasets, SQL scripts, Python notebooks, Power BI dashboards, business insights, and supporting documentation used throughout the analysis.
