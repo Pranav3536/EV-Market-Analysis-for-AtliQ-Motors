@@ -14,16 +14,17 @@ Dataset Features
 
 The dataset contains information related to the Indian Electric Vehicle (EV) market, including:
 
-- Date
-- Fiscal Year
-- Quarter
-- State
-- Vehicle Category
-- EV Manufacturer (Maker)
-- Electric Vehicles Sold by Maker
-- Electric Vehicles Sold by State
-- Total Vehicles Sold
-- EV Penetration (%)
-- EV Penetration Category
+Column Description
+- Date –-  Date on which the sales data was recorded.
+- Fiscal Year –-  Financial year corresponding to each record.
+- Quarter –-  Fiscal quarter (Q1, Q2, Q3, Q4) of the transaction.
+- State –-  Indian state where the vehicle sales were reported.
+- Vehicle Category –-  Category of the vehicle (2-Wheelers or 4-Wheelers).
+- Maker –-  Name of the EV manufacturer.
+- Electric Vehicles Sold by Maker –-  Number of EV units sold by each manufacturer.
+- Electric Vehicles Sold by State –-  Total EV units sold in each state.
+- Total Vehicles Sold –-  Overall vehicle sales (EV + Non-EV) in the state.
+- EV Penetration (%) –-  Percentage of EV sales compared to total vehicle sales.
+- EV Penetration Category –-  Classification of states based on their EV penetration level.
 
 The cleaned dataset was validated to ensure data consistency and improve the accuracy of the analysis.
