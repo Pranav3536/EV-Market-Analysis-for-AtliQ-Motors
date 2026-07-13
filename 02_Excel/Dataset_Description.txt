@@ -1,1 +1,29 @@
+Dataset Description
 
+This project uses two Excel datasets:
+
+1. AtliQ_EV_Raw_Dataset.xlsx
+   - Contains the original EV market data collected for analysis.
+   - Includes raw records with missing values, duplicate entries, and inconsistent data that required cleaning before analysis.
+
+2. AtliQ_EV_Clean_Dataset.xlsx
+   - Final cleaned dataset prepared after data preprocessing.
+   - Used for SQL analysis, Power BI dashboard development, and business insights.
+
+Dataset Features
+
+The dataset contains information related to the Indian Electric Vehicle (EV) market, including:
+
+- Date
+- Fiscal Year
+- Quarter
+- State
+- Vehicle Category
+- EV Manufacturer (Maker)
+- Electric Vehicles Sold by Maker
+- Electric Vehicles Sold by State
+- Total Vehicles Sold
+- EV Penetration (%)
+- EV Penetration Category
+
+The cleaned dataset was validated to ensure data consistency and improve the accuracy of the analysis.
