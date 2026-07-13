@@ -104,8 +104,6 @@ Analyzes state-wise EV sales, EV penetration, and regional demand. The dashboard
 
 ---
 
----
-
 # Dashboard Preview
 
 ### 🏠 Home Page
@@ -131,7 +129,7 @@ Analyzes state-wise EV sales, EV penetration, and regional demand. The dashboard
 ![State Analysis](05_Power_BI/State_Analysis.png)
 
 
-# Key Highlights
+# Key Business Insights
 
 - Maharashtra recorded the highest EV sales.
 - Karnataka and Tamil Nadu remained major EV markets.
@@ -208,12 +206,12 @@ Explore the interactive Power BI dashboard to view the complete analysis.
 - Data Cleaning & Validation
 - Exploratory Data Analysis (EDA)
 - Data Transformation
-- SQL Business Queries
+- SQL Query Writing
+- Business Analysis
 - Power BI Dashboard Development
 - DAX Measures
-- Business Intelligence
+- KPI Development
 - Data Visualization
-- Business Analysis
 - Business Recommendations
 
 ---
