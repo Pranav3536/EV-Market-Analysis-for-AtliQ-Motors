@@ -1,1 +1,14 @@
+Business Recommendations
 
+Based on the findings from this analysis, the following recommendations can support AtliQ Motors in planning its expansion into the Indian EV market.
+
+- Prioritize market entry in high-performing states such as Maharashtra, Karnataka, and Tamil Nadu, where EV demand is already well established.
+- Consider Kerala as a strategic market because of its high EV penetration and strong consumer acceptance of electric vehicles.
+- Focus initially on the 2-Wheeler segment, as it represents the largest share of the current EV market.
+- Study the strategies of leading manufacturers such as Ola Electric to better understand pricing, product positioning, and market competition.
+- Expand gradually into states with lower EV penetration but high overall vehicle sales, as these markets offer long-term growth opportunities.
+- Strengthen partnerships with charging infrastructure providers to improve customer confidence and support EV adoption.
+- Monitor yearly sales trends and regional performance regularly to identify changes in market demand and customer preferences.
+- Use data-driven insights to support product launch planning, regional marketing strategies, and future business expansion decisions.
+
+These recommendations are based on the historical sales data analyzed in this project and are intended to support informed business planning rather than predict future market performance.
