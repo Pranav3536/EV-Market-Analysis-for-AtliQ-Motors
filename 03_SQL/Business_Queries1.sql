@@ -3,6 +3,7 @@
    Business Queries - Part 1
 --------------------------------------------------*/
 
+-- Table - atliq_ev
 
 -- 1. Total Number of EV Makers
 
