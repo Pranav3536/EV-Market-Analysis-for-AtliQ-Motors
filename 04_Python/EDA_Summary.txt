@@ -1,6 +1,8 @@
 Exploratory Data Analysis (EDA) Summary
 
-The Exploratory Data Analysis (EDA) was performed using Python to understand the dataset, identify data quality issues, and prepare a clean dataset for further analysis. The entire process was carried out before building SQL queries and the Power BI dashboard to ensure that the analysis was based on accurate and consistent data.
+The Exploratory Data Analysis (EDA) was performed using Python to understand the dataset, identify data quality issues, and prepare a clean 
+dataset for further analysis. The entire process was carried out before building SQL queries and the Power BI dashboard to ensure that the 
+analysis was based on accurate and consistent data.
 
 The notebook includes the following steps:
 
@@ -16,4 +18,5 @@ The notebook includes the following steps:
 - Verified the cleaned dataset to ensure it was ready for SQL analysis and dashboard development.
 - Exported the final cleaned dataset for further analysis in MySQL and Power BI.
 
-The EDA process improved the overall quality of the dataset and provided a better understanding of the Indian EV market. The cleaned dataset served as the foundation for SQL business queries, interactive Power BI dashboards, and the final business insights presented in this project.
+The EDA process improved the overall quality of the dataset and provided a better understanding of the Indian EV market. The cleaned dataset 
+served as the foundation for SQL business queries, interactive Power BI dashboards, and the final business insights presented in this project.
