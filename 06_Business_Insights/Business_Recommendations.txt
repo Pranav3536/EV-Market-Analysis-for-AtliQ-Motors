@@ -11,4 +11,5 @@ Based on the findings from this analysis, the following recommendations can supp
 - Monitor yearly sales trends and regional performance regularly to identify changes in market demand and customer preferences.
 - Use data-driven insights to support product launch planning, regional marketing strategies, and future business expansion decisions.
 
-These recommendations are based on the historical sales data analyzed in this project and are intended to support informed business planning rather than predict future market performance.
+These recommendations are based on the historical sales data analyzed in this project and are intended to support informed business planning rather 
+than predict future market performance.
