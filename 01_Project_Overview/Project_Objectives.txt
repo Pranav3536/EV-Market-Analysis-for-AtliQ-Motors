@@ -1,1 +1,13 @@
+Project Objectives
 
+The main objectives of this project are:
+
+- Study the current Electric Vehicle (EV) market in India.
+- Analyze EV sales trends across different fiscal years.
+- Compare the performance of states based on EV sales and market penetration.
+- Identify the leading EV manufacturers in the Indian market.
+- Compare the performance of different vehicle categories.
+- Perform data cleaning, validation, and exploratory data analysis (EDA).
+- Answer business questions using SQL queries.
+- Build an interactive Power BI dashboard for business reporting.
+- Generate meaningful insights and business recommendations to support market expansion.
