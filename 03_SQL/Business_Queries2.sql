@@ -2,7 +2,7 @@
    Business Queries - Part 2
 -------------------------------------------------*/
 
--- 1. Top 5 Makers in the 4-Wheeler Category
+-- 7. Top 5 Makers in the 4-Wheeler Category
 
 SELECT
     Maker,
@@ -14,7 +14,7 @@ ORDER BY EV_Sales DESC
 LIMIT 5;
 
 
--- 2. Number of EV Makers by Vehicle Category
+-- 8. Number of EV Makers by Vehicle Category
 
 SELECT
     Vehicle_category,
@@ -23,7 +23,7 @@ FROM atliq_ev
 GROUP BY Vehicle_category;
 
 
--- 3. Top 5 States with the Lowest EV Sales
+-- 9. Top 5 States with the Lowest EV Sales
 
 SELECT
     State,
@@ -33,7 +33,7 @@ GROUP BY State
 ORDER BY Total_EV_Sales ASC
 LIMIT 5;
 
--- 4. Number of EV Makers by Fiscal Year
+-- 10. Number of EV Makers by Fiscal Year
 
 SELECT
     Fiscal_year,
@@ -42,7 +42,7 @@ FROM atliq_ev
 GROUP BY Fiscal_year
 ORDER BY Fiscal_year;
 
--- 5. States with Total Vehicle Sales Above the Overall Average
+-- 11. States with Total Vehicle Sales Above the Overall Average
 
 SELECT
     State,
@@ -57,7 +57,7 @@ HAVING SUM(Total_vehicles_sold) >
 ORDER BY Total_Vehicle_Sales DESC;
 
 
--- 6. Market Share of Top 5 EV Makers
+-- 12. Market Share of Top 5 EV Makers
 
 SELECT
     Maker,
