@@ -199,7 +199,7 @@ AtliQ_Motors_EV_Market_Analysis
 
 Explore the interactive Power BI dashboard to view the complete analysis.
 
-👉 **[View Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODI2NzUxMjUtNjdmYi00ZWQ3LWExYzMtOGFmOTUzMzYxNGY4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=e05f82973477f248a6b3)**
+👉 **[View Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmYwMWU0NjYtYzRmYS00NjVlLTgzZmMtMDNmNmVkN2U5ZTBmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=e05f82973477f248a6b3)**
 
 ---
 
