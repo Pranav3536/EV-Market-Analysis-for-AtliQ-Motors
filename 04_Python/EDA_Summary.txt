@@ -1,22 +1,22 @@
 Exploratory Data Analysis (EDA) Summary
 
-The Exploratory Data Analysis (EDA) was performed using Python to understand the dataset, identify data quality issues, and prepare a clean 
+The Exploratory Data Analysis (EDA) was performed using Python to understand the dataset, identify data quality issues and prepare a clean 
 dataset for further analysis. The entire process was carried out before building SQL queries and the Power BI dashboard to ensure that the 
 analysis was based on accurate and consistent data.
 
 The notebook includes the following steps:
 
-- Imported the required Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn.
+- Imported the required Python libraries such as Pandas, NumPy, Matplotlib and Seaborn.
 - Loaded the raw EV dataset and reviewed the first few records to understand its structure.
-- Examined the dataset shape, column names, data types, and summary statistics.
-- Performed data quality checks to identify missing values, duplicate records, and inconsistent data.
+- Examined the dataset shape, column names, data types and summary statistics.
+- Performed data quality checks to identify missing values, duplicate records and inconsistent data.
 - Validated numerical and categorical columns to improve data consistency.
-- Cleaned the dataset by handling missing values, removing duplicate records, and correcting formatting issues.
+- Cleaned the dataset by handling missing values, removing duplicate records and correcting formatting issues.
 - Created the EV Penetration Category feature based on the EV Penetration (%) values for better business analysis.
-- Explored EV sales trends across fiscal years, states, manufacturers, and vehicle categories using different visualizations.
+- Explored EV sales trends across fiscal years, states, manufacturers and vehicle categories using different visualizations.
 - Analyzed the distribution of EV sales and identified patterns that could support business decision-making.
 - Verified the cleaned dataset to ensure it was ready for SQL analysis and dashboard development.
 - Exported the final cleaned dataset for further analysis in MySQL and Power BI.
 
 The EDA process improved the overall quality of the dataset and provided a better understanding of the Indian EV market. The cleaned dataset 
-served as the foundation for SQL business queries, interactive Power BI dashboards, and the final business insights presented in this project.
+served as the foundation for SQL business queries, interactive Power BI dashboards and the final business insights presented in this project.
