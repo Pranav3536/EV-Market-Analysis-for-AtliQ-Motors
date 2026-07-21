@@ -4,12 +4,12 @@ AtliQ Motors is a leading automotive company based in the United States with a s
 last few years, the company has achieved significant growth in North America and now plans to expand its business into India.
 
 Although India is one of the fastest-growing EV markets, AtliQ Motors currently has a very small market share. Before entering this competitive 
-market, the company wants to understand the current EV ecosystem, identify market trends, and evaluate the performance of existing manufacturers 
+market, the company wants to understand the current EV ecosystem, identify market trends and evaluate the performance of existing manufacturers 
 across different states.
 
 The management team has assigned the Data Analytics team to perform a detailed market analysis using historical EV sales data. The goal is 
-to identify regions with high EV adoption, compare the performance of manufacturers, analyze vehicle category trends, and understand the overall 
+to identify regions with high EV adoption, compare the performance of manufacturers, analyze vehicle category trends and understand the overall 
 growth of the EV market.
 
-The insights generated from this project will help AtliQ Motors make data-driven decisions, identify potential growth opportunities, and develop 
+The insights generated from this project will help AtliQ Motors make data-driven decisions, identify potential growth opportunities and develop 
 an effective market expansion strategy for India.
