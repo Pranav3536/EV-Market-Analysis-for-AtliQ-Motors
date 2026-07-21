@@ -8,7 +8,7 @@ The analysis of the Indian EV market revealed several important trends across ma
 - Ola Electric emerged as the market leader in the 2-Wheeler segment, maintaining a significant share of total EV sales.
 - The 2-Wheeler segment contributed the largest share of EV sales, showing higher consumer demand compared to the 4-Wheeler segment.
 - EV sales increased steadily across fiscal years, reflecting the continuous growth of the Indian EV market.
-- Market performance varied across states, suggesting that regional demand, infrastructure, and consumer adoption differ significantly.
+- Market performance varied across states, suggesting that regional demand, infrastructure and consumer adoption differ significantly.
 - Several states recorded low EV penetration despite high overall vehicle sales, highlighting untapped opportunities for future expansion.
 - The dashboard indicates that both manufacturer performance and state-level demand play a major role in understanding market potential.
 - Overall, the Indian EV market shows strong growth potential, supported by increasing sales and improving EV adoption across multiple regions.
