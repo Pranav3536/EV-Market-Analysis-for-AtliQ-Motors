@@ -11,7 +11,7 @@ and State Analysis dashboards.
 Executive Overview
 
 This page presents a high-level summary of the Indian EV market using key performance indicators such as Total EV Sales, Total Vehicles Sold, 
-EV Penetration (%) and Total Makers. It also highlights sales trends over fiscal years, vehicle category performance, and state-wise EV sales to provide 
+EV Penetration (%) and Total Makers. It also highlights sales trends over fiscal years, vehicle category performance and state-wise EV sales to provide 
 an overall market overview.
 
 Maker Analysis
@@ -27,7 +27,7 @@ and future growth opportunities.
 
 Dashboard Features
 
-- Interactive slicers for Fiscal Year, State, Maker, and Vehicle Category.
+- Interactive slicers for Fiscal Year, State, Maker and Vehicle Category.
 - Cross-filtering across visuals for better analysis.
 - KPI cards to highlight important business metrics.
 - Multiple charts and maps for comparing market performance.
