@@ -1,13 +1,13 @@
 Project Overview
 
-This project presents an end-to-end analysis of the Indian Electric Vehicle (EV) market using Excel, SQL, Python, and Power BI.
+This project presents an end-to-end analysis of the Indian Electric Vehicle (EV) market using Excel, SQL, Python and Power BI.
 
 The project begins with raw datasets collected from different sources. The data was first cleaned and validated using Python, where 
-missing values, duplicate records, and data quality issues were identified and handled. Exploratory Data Analysis (EDA) was then performed 
+missing values, duplicate records and data quality issues were identified and handled. Exploratory Data Analysis (EDA) was then performed 
 to understand the structure of the data and identify important trends.
 
 The cleaned dataset was further analyzed using SQL to answer business-related questions and validate important metrics. Finally, an interactive 
-Power BI dashboard was developed to visualize EV sales trends, manufacturer performance, state-wise analysis, and EV penetration across India.
+Power BI dashboard was developed to visualize EV sales trends, manufacturer performance, state-wise analysis and EV penetration across India.
 
 Based on the analysis, key business insights and recommendations were prepared to help AtliQ Motors understand the Indian EV market and support 
 future expansion planning.
