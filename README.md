@@ -25,7 +25,7 @@ Data Analyst • SQL • Python • Power BI
 
 This project presents an end-to-end analysis of the Indian Electric Vehicle (EV) market for AtliQ Motors, a leading EV manufacturer planning to expand into India.
 
-The analysis covers the complete data analytics workflow, starting from raw datasets and progressing through data cleaning, exploratory data analysis (EDA), SQL-based business analysis, and interactive Power BI dashboards. The objective is to identify market trends, leading manufacturers, state-wise performance, and EV adoption patterns that can support business expansion decisions.
+The analysis covers the complete data analytics workflow, starting from raw datasets and progressing through data cleaning, exploratory data analysis (EDA), SQL-based business analysis and interactive Power BI dashboards. The objective is to identify market trends, leading manufacturers, state-wise performance and EV adoption patterns that can support business expansion decisions.
 
 ---
 
@@ -90,15 +90,15 @@ Recommendations
 
 ### 🏠 Home Page
 
-Introduces the project and provides a simple navigation experience. Users can quickly access the Executive Overview, Maker Analysis, and State Analysis dashboards.
+Introduces the project and provides a simple navigation experience. Users can quickly access the Executive Overview, Maker Analysis and State Analysis dashboards.
 
 ### 📈 Executive Overview
 
-Displays key business KPIs such as Total EV Sales, Total Vehicle Sales, EV Penetration, and Total Manufacturers. It also highlights yearly sales trends, vehicle category performance, and overall market growth.
+Displays key business KPIs such as Total EV Sales, Total Vehicle Sales, EV Penetration and Total Manufacturers. It also highlights yearly sales trends, vehicle category performance and overall market growth.
 
 ### 🏭 Maker Analysis
 
-Focuses on EV manufacturer performance by comparing market share, yearly sales, fiscal year trends, and manufacturer rankings. It helps identify the leading players in the Indian EV market.
+Focuses on EV manufacturer performance by comparing market share, yearly sales, fiscal year trends and manufacturer rankings. It helps identify the leading players in the Indian EV market.
 
 ### 📍 State Analysis
 
@@ -220,7 +220,7 @@ Explore the interactive Power BI dashboard to view the complete analysis.
 
 # About This Repository
 
-This repository contains all project files, including raw and cleaned datasets, SQL scripts, Python notebooks, Power BI dashboards, business insights, and supporting documentation used throughout the analysis.
+This repository contains all project files, including raw and cleaned datasets, SQL scripts, Python notebooks, Power BI dashboards, business insights and supporting documentation used throughout the analysis.
 
 If you found this project useful, feel free to explore the repository and the interactive Power BI dashboard.
 
